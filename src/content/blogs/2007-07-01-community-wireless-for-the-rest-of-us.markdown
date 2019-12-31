@@ -2,6 +2,7 @@
 wordpress_id: 152
 layout: post
 title: Community wireless for the rest of us
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/community-wireless-for-the-rest-of-us/
 ---
 <p>I'm pretty interested in community wireless projects, and recently I've been looking into setups such as <a href="http://www.meraki.com">meraki</a> and <a href="http://www.fon.com">fon</a>. Both of these systems have merit, but the barrier to entry is the same for both - you must use hardware to make the community happen.</p>

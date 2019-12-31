@@ -2,6 +2,7 @@
 wordpress_id: 108
 layout: post
 title: grainy cronulla sunset
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=108
 ---
 <div class="flickr-frame">

@@ -2,6 +2,7 @@
 wordpress_id: 103
 layout: post
 title: All your media are belong to us...
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=103
 ---
 <blockquote>You paid good money for your DVDs: wouldn't it be nice to be able to play them anywhere, transfer them to a video iPod, and skip over those "forced viewing" areas? However, if the American music companies get their way, these will all be illegal. That's right: you won't be able to choose how you play your own DVDs!</blockquote>

@@ -2,6 +2,7 @@
 wordpress_id: 121
 layout: post
 title: Socially Engineered Spam
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/socially-engineered-spam/
 ---
 I often seem to write about spam here, but then again, I do seem to get some goodies... 

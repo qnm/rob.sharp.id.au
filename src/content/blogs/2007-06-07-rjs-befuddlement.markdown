@@ -2,6 +2,7 @@
 wordpress_id: 147
 layout: post
 title: RJS befuddlement
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/rjs-beffudlement/
 ---
 I've been playing with Ruby on Rails lately, and, to be fair, there's a lot to love. As someone who codes in PHP for their day job, Rails provides me a wonderful example of how to do things properly. Everything feels nice, and many things are simple to implement, but for this little RJS problem I have is driving me crazy.

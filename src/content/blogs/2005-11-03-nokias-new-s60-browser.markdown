@@ -2,6 +2,7 @@
 wordpress_id: 91
 layout: post
 title: Nokia's new S60 browser
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=91
 ---
 It's been almost a year since stopped developing for mobile platforms, and how things have changed since then!

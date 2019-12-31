@@ -2,6 +2,7 @@
 wordpress_id: 148
 layout: post
 title: The aftermath of Webjam3
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/the-aftermath-of-webjam3/
 ---
 Last night, the <a href="http://www.thesoundalliance.net">TSA</a> tech posse went on tour to <a href="http://www.webjam.com.au">Webjam3</a>, Sydney's premier 3-minute web presentation evening.

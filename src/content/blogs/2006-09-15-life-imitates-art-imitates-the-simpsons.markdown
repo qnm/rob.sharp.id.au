@@ -2,6 +2,7 @@
 wordpress_id: 120
 layout: post
 title: Life imitates art, imitates the Simpsons
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=120
 ---
 <a href="http://blogs.gnome.org/view/jamesh/2006/09/14/0">James Henstridge</a> noticed the similarity between <a href="http://www.abc.net.au/news/newsitems/200609/s1741675.htm">recent political debate</a> on immigration and the '<a href="http://www.snpp.com/episodes/3F20.html">Much Apu about nothing</a>' episode from The Simpsons.

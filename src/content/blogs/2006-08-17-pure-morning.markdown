@@ -2,6 +2,7 @@
 wordpress_id: 111
 layout: post
 title: Pure morning
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/pure-morning/
 ---
 <div class="flickr-frame">

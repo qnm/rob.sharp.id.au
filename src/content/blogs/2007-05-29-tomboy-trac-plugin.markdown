@@ -2,6 +2,7 @@
 wordpress_id: 144
 layout: post
 title: Tomboy Trac Plugin
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/tomboy-trac-plugin/
 ---
 If, like me, you use Tomboy and Trac, you might like this plugin I've cobbled together to allow draggable trac links into Tomboy. Based on the Bugzilla plugin, this simply makes your notes a little neater!

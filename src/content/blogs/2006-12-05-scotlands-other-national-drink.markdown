@@ -2,6 +2,7 @@
 wordpress_id: 122
 layout: post
 title: Scotland's other national drink
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/scotlands-other-national-drink/
 ---
 Here's a <a href="http://irn-bru.co.uk/snowman/index.html">fantastic Christmas ad</a> from <a href="http://irn-bru.co.uk/">Irn-Bru.</a>

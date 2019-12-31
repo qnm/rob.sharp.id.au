@@ -2,6 +2,7 @@
 wordpress_id: 127
 layout: post
 title: Shhuave and Shhophisticated
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=127
 ---
 <b>You are <font SIZE=6>Sean Connery</font></b>

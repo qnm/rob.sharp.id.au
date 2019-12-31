@@ -2,6 +2,7 @@
 wordpress_id: 126
 layout: post
 title: Tokyo Nightscape
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/tokyo-nightscape/
 ---
 <div class="flickr-frame">

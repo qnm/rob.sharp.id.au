@@ -2,6 +2,7 @@
 wordpress_id: 113
 layout: post
 title: Sean Connery
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/sean-connery/
 ---
 I got an email from Sean Connery the other day.

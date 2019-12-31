@@ -2,6 +2,7 @@
 wordpress_id: 153
 layout: post
 title: Avoiding Dogpiling with Memcache
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/avoiding-dogpiling-with-memcache/
 ---
 <p>To be honest, I've only heard the term 'Dogpiling' in this context once before - it makes me think of a search engine I used many moons ago. Anyway, dogpiling is the messy situation you end up in when your cache expires and the time it takes for the cache  rebuilt takes longer to generate than your server is answering requests per second.</p>

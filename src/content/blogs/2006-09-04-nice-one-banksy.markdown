@@ -2,6 +2,7 @@
 wordpress_id: 116
 layout: post
 title: Nice one, Banksy
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/nice-one-banksy/
 ---
 <blockquote>Hundreds of Paris Hilton albums have been tampered with in the latest stunt by "guerrilla artist" Banksy.

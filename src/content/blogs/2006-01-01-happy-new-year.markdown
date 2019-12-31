@@ -2,6 +2,7 @@
 wordpress_id: 95
 layout: post
 title: Happy New Year!
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=95
 ---
 <div class="flickr-frame" style="float:right">

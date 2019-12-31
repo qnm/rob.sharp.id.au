@@ -2,6 +2,7 @@
 wordpress_id: 96
 layout: post
 title: Hacking Mediawiki
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=96
 ---
 Mediawiki seems to be a great open-source project - it has a very large customer site (<a href="http://www.wikipedia.org">Wikipedia</a>), full time development and maintainence staff, yet still I struggled to find doco to enable me to customise it to my needs. I even got the standard RTFM from the IRC channel - great way to attract new developers, guys! All I wanted to do was update a wiki page from inside the application...

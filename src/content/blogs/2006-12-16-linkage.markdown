@@ -2,6 +2,7 @@
 wordpress_id: 125
 layout: post
 title: Linkage
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=125
 ---
 Some interesting stuff I found on the web recently:

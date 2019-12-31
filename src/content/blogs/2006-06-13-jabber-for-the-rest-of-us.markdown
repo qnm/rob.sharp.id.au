@@ -2,6 +2,7 @@
 wordpress_id: 100
 layout: post
 title: Jabber for the rest of us
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=100
 ---
 I've been toying with the idea of a corporate Jabber server for a while now, but it's just another server to administer...

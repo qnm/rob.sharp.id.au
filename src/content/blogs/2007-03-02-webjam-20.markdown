@@ -2,6 +2,7 @@
 wordpress_id: 130
 layout: post
 title: Web(jam) 2.0
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/webjam-20/
 ---
 This morning my head hurts from a) beer last night and b) a mild allergy to mozzie bites. However, a) was most definitely worth it as I was at <a href="http://www.webjam.com.au">Webjam</a>!

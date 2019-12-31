@@ -2,6 +2,7 @@
 wordpress_id: 106
 layout: post
 title: Linked all over
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=106
 ---
 I've been playing with LinkedIn recently, and it looks like a pretty professional social networking site. If you use it, gimme a link!

@@ -2,6 +2,7 @@
 wordpress_id: 109
 layout: post
 title: The elusive media centre...
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=109
 ---
 I've been looking into building a media centre for ages now, and have got as far as buying a hifi-sized cased and started playing with various bits of software. So far I've looked into:

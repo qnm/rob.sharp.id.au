@@ -7,6 +7,7 @@ excerpt: |
   
   Here's how I managed to avoid coupling whilst unit testing.
 
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/mock-chop-using-php-and-simpletest/
 ---
 One of my reservations about adopting Unit Testing as a standard for my team was that, despite being pretty good developers, a fair amount of our code ends up being coupled.

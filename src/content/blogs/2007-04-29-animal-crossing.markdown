@@ -2,6 +2,7 @@
 wordpress_id: 143
 layout: post
 title: Animal Crossing
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/animal-crossing/
 ---
 If you play Animal Crossing on the DS you can add me: 2363-2163-2600

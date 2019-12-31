@@ -2,6 +2,7 @@
 wordpress_id: 123
 layout: post
 title: Steve Irwin stencil
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/steve-irwin-stencil/
 ---
 <div class="flickr-frame">

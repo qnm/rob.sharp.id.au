@@ -2,6 +2,7 @@
 wordpress_id: 136
 layout: post
 title: Belt Debacle
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=136
 ---
 <img src="http://sharp.id.au/images/zooyorkbelt.jpg" alt="The Zoo York belt, with bottle opener buckle" style="float:right" />

@@ -2,6 +2,7 @@
 wordpress_id: 105
 layout: post
 title: Mashups of a different kind...
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=105
 ---
 Over my past few blog articles I've mentioned two musical things (despite having a job in the music industry I tend to blog about techy geek stuff), Solid Steel Radio and fellow expat Scot in Australia, Jonny Faith.

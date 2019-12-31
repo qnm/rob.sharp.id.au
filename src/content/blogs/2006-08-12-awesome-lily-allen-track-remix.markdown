@@ -2,6 +2,7 @@
 wordpress_id: 110
 layout: post
 title: Awesome Lily Allen Track Remix
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/awesome-lily-allen-track-remix/
 ---
 I recently discovered <a href="http://www.lilyallenmusic.com/">Lily Allen</a> through the use of  'Smile' on an advert here in Aus, and I'm pretty impressed with her album. It's got a great sound, and she's certainly got the 'Mike Skinner geezette' thing going on, but musically it's very different to anything The Streets have done. It's also notable that her site is MySpace all over, but that's a discussion for another time.

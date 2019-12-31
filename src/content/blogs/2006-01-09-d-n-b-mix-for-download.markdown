@@ -2,6 +2,7 @@
 wordpress_id: 97
 layout: post
 title: "            D 'n' B mix for download"
+image: ../../images/tokyo.jpg
 wordpress_url: http://www.sharp.id.au/?p=97
 ---
 <a href="http://www.webflyers.co.uk/Flyer/225">Obscene </a>and <a href="http://www.inthemix.com.au/whatson/show/26618/">DNBBQ</a> main man Jonny Faith has <a href="http://www.scottishdrumandbass.com/mix/Headroom%20Mix.mp3">uploaded another of his awesome mixes</a> for your delectation. Cheers for the heads-up Jonny - good to see you back in the sunshine! If it expires before you get to it, let me know and I'll re-upload it for ya.<br />
