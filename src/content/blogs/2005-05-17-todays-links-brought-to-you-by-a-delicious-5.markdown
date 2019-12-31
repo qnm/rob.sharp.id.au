@@ -3,6 +3,7 @@ wordpress_id: 23
 layout: post
 title: Todays links, brought to you by del.icio.us
 wordpress_url: http://sharp.id.au/blog/delicious/links_2005-05-17
+image: ../../images/tokyo.jpg
 ---
 <a href="http://r4nt.com/v5/article/120/">Who Makes Movies?</a>
 <br />

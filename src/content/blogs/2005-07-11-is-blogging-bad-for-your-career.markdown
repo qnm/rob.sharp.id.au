@@ -3,6 +3,7 @@ wordpress_id: 62
 layout: post
 title: Is blogging bad for your career?
 wordpress_url: http://www.sharp.id.au/?p=62
+image: ../../images/tokyo.jpg
 ---
 We've all heard of <a href="http://www.guardian.co.uk/online/weblogs/story/0,14024,1388466,00.html">bloggers getting sacked</a>, but could affect you getting a job too?
 

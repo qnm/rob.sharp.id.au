@@ -3,6 +3,7 @@ wordpress_id: 4
 layout: post
 title: Ebay Facts
 wordpress_url: http://sharp.id.au/blog/ebay
+image: ../../images/tokyo.jpg
 ---
 I&apos;m a bit of a fan of <a href="http://www.ebay.com.au">ebay</a>, but <a href="http://www.fortune.com/fortune/articles/0,15114,704026,00.html">this article</a> on Fortune has some interesting facts on Ebay. Did you know...
 <ul>

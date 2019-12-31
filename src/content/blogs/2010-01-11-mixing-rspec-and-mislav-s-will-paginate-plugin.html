@@ -2,6 +2,7 @@
 layout: post
 title: Mixing rspec and mislav's will_paginate plugin
 published: true
+image: ../../images/tokyo.jpg
 ---
 <p>I didn't find the solution to using will_paginate in rpsec'd views anywhere, so here it is for anyone else searching for the same.</p>
 <p>The solution is to build mock ActiveRecord models as part of an array, which will get you most of the way there. Then you can either the mock in the will_paginate methods, or you can simply call the paginate method on the array itself, as the plugin extends the Array class.</p>

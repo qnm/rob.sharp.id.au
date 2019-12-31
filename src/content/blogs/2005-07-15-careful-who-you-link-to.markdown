@@ -3,6 +3,7 @@ wordpress_id: 66
 layout: post
 title: Careful who you link to...
 wordpress_url: http://www.sharp.id.au/?p=66
+image: ../../images/tokyo.jpg
 ---
 <a href="http://www.theage.com.au/news/breaking/music-industry-claims-big-scalp-in-piracy-case/2005/07/14/1120934356624.html">... as you might go to jail because of it.</a>
 

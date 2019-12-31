@@ -3,6 +3,7 @@ wordpress_id: 60
 layout: post
 title: London Calling
 wordpress_url: http://jedi.cx/?p=60
+image: ../../images/tokyo.jpg
 ---
 I'm watching the news of multiple bombings in London on the news between texting London friends to check that they're okay. I really can't believe what's happened.
 

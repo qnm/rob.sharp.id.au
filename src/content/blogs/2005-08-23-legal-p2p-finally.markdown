@@ -4,6 +4,7 @@ layout: post
 title: Legal P2P, Finally...
 excerpt: PlayLouder have struck an agreement with Sony-BMG to legally share any song in the Sony-BMG catalog with any other PlayLouder MSP customer.
 wordpress_url: http://www.sharp.id.au/?p=75
+image: ../../images/tokyo.jpg
 ---
 <a href="http://boingboing.net">Boing Boing</a> and <a href="http://eff.org">EFF </a>'Outreach Coordinator' <a href="http://www.boingboing.net/2005/08/22/customers_of_new_uk_.html">Cory Doctorow reports</a> that a UK ISP, <a href="http://www.playloudermsp.com/">PlayLouder</a>, have struck an agreement with Sony-BMG to "legally share any song in the Sony-BMG catalog with any other PlayLouder MSP customer, and to download these tracks from any ISP customer in the entire world." 
 

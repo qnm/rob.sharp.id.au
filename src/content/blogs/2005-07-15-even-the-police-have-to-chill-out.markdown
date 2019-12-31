@@ -3,6 +3,7 @@ wordpress_id: 68
 layout: post
 title: Even the police have to chill out sometimes
 wordpress_url: http://www.sharp.id.au/?p=68
+image: ../../images/tokyo.jpg
 ---
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/tpreece01/25560092/" title="photo sharing"><img src="http://photos23.flickr.com/25560092_0467f787be_t.jpg" class="flickr-photo" alt="DSC03462" /></a><br />

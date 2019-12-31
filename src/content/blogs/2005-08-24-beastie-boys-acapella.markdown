@@ -3,6 +3,7 @@ wordpress_id: 79
 layout: post
 title: Beastie Boys Acapella
 wordpress_url: http://www.sharp.id.au/?p=79
+image: ../../images/tokyo.jpg
 ---
 <p>Hot on the heels of other recent mashups and bootlegs such as DJ Dangermouse/The Grey Album, the Beastie Boys have released a load of mp3's of their acapellas. </p>
 

@@ -4,6 +4,7 @@ layout: post
 title: Goodbye, Dr. Moog
 excerpt: Robert Moog, inventor of the Theremin and the creator of the synthesizer that bears his name passed away at 71, four months after being diagnosed with brain cancer. As a fan of electronic music, it's pretty safe to say that without him, music would not be where it is today.
 wordpress_url: http://www.sharp.id.au/?p=74
+image: ../../images/tokyo.jpg
 ---
 Robert Moog, creator of the synthesizer that bears his name, passed away at 71, four months after being diagnosed with brain cancer. As a fan of electronic music, it's pretty safe to say that without him, music would not be where it is today.
 

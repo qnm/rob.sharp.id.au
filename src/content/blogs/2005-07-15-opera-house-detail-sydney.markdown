@@ -3,6 +3,7 @@ wordpress_id: 65
 layout: post
 title: Opera House Detail, Sydney
 wordpress_url: http://www.sharp.id.au/?p=65
+image: ../../images/tokyo.jpg
 ---
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/quannum/16196749/" title="photo sharing"><img src="http://photos11.flickr.com/16196749_971cc32dc7_t.jpg" class="flickr-photo" alt="F1000003" /></a><br />

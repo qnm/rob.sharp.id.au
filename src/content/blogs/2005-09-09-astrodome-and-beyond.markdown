@@ -3,6 +3,7 @@ wordpress_id: 82
 layout: post
 title: Astrodome and beyond
 wordpress_url: http://www.sharp.id.au/?p=82
+image: ../../images/tokyo.jpg
 ---
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/ioerror/41277478/" title="photo sharing"><img src="http://static.flickr.com/24/41277478_00b76da918_t.jpg" class="flickr-photo" alt="Astrodome and beyond" /></a>

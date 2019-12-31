@@ -3,6 +3,7 @@ wordpress_id: 71
 layout: post
 title: Japanese Chemist Sells What?
 wordpress_url: http://www.sharp.id.au/?p=71
+image: ../../images/tokyo.jpg
 ---
 <div class="flickr-frame">
 	<a href="http://www.flickr.com/photos/sennachan/27245666/" title="photo sharing"><img src="http://photos21.flickr.com/27245666_77e9881053_t.jpg" class="flickr-photo" alt="DSCN0276" /></a><br />

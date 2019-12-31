@@ -3,6 +3,7 @@ wordpress_id: 5
 layout: post
 title: Todays links, brought to you by del.icio.us
 wordpress_url: http://sharp.id.au/blog/delicious/links_2005-06-17
+image: ../../images/tokyo.jpg
 ---
 <a href="http://plasticbugs.com/index.php?p=267">ITunes streaming to your mobile phone</a>
 <br />
