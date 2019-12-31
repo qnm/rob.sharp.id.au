@@ -6,6 +6,7 @@ name: ruby-bundler-wrapper
 categories: ruby
 created_at: 2012-09-03
 updated_at: 2012-09-03
+image: ../../images/tokyo.jpg
 
 ---
 Fun with Bundler and RVM: /usr/bin/env: ruby_bundler_wrapper: No such file or directory
