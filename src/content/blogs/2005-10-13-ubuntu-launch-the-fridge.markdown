@@ -3,6 +3,7 @@ wordpress_id: 85
 layout: post
 title: Ubuntu launch The Fridge
 wordpress_url: http://www.sharp.id.au/?p=85
+image: ../../images/tokyo.jpg
 ---
 It looks like <a href="http://www.ubuntulinux.com/">Ubuntu</a> have now launched '<a href="http://fridge.ubuntu.com/">The Fridge</a>', a site analogous to a family fridge, where you can stick notes and information for everyone to see. Very clever!
 
