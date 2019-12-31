@@ -7,7 +7,7 @@ name: new-beginnings
 categories: personal
 created_at: 2011-02-25
 updated_at: 2011-02-25
-
+image: ../../images/tokyo.jpg
 ---
 New Beginnings
 =====
