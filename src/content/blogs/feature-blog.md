@@ -30,7 +30,7 @@ In my case this was `qnm.github.com`. Once you've done this, you can add the rem
 
 `git push -u origin master`
 
-1. Add in the Github action workflow.
+1. Setting up a development branch
 
 Move into your newly created Gatsby blog
 
@@ -39,6 +39,10 @@ Move into your newly created Gatsby blog
 In our case, our `master` branch will be used for the static site, so let's switch to a `dev` branch:
 
 `git checkout -b dev`
+
+At this point it's worthwhile telling Github that you want the `dev` branch to be the main one.
+
+1. Add in the Github action workflow.
 
 Then create a new directory for actions:
 
