@@ -3,6 +3,7 @@ layout: post
 title: "Loading dummy app routes from a mountable engine"
 subtitle: "Uncovering the differences between full and mountable engines, one issue at a time."
 categories: rails, engines
+image: ../../images/tokyo.jpg
 ---
 I've been building a Rails 3.2 engine, and when I created it, chose the 'mountable' option, rather than the full option.
 
